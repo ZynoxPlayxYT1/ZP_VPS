@@ -1,3 +1,4 @@
+# Subscribe ZynoxPlayzYT On YouTube
 { pkgs, ... }: {
   channel = "stable-24.05";
   
